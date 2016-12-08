@@ -6,8 +6,8 @@
         }
     ],
     "require": {
-     "aws/aws-sdk-php": "~3.3.8",
-     "drupal/token": "2.0.x-dev"
+     "aws/aws-sdk-php": "^3.18",
+     "drupal/token": "1.x-dev"
     }
 
 }
